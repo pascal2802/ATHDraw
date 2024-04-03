@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T15:14:53.636Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="AKhzvyH_Vgko7yobqrc9" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T08:47:00.105Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Y0MER4Ya3v5qHPh3Evot" version="24.2.0" type="github">
   <diagram name="Page-1" id="iviJ_svWnbr33wz3nMhT">
-    <mxGraphModel dx="770" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="440" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,42 @@
         </mxCell>
         <mxCell id="BVI4ZznRLpwzYdDOaiCr-17" value="\( l_z^{step} \), \(r_z^{step} \)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="360" y="405" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="680" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-20" value="\(L_{defaut} = n^{step}_{D} \times D\) " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="480" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-23" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;\( D \)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="480" y="246" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-24" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;\( d \)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVI4ZznRLpwzYdDOaiCr-26" value="\( H^{step}_{p} = \frac{H}{D} \)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
